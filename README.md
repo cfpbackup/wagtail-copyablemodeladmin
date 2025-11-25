@@ -1,7 +1,6 @@
 # Wagtail CopyableModelAdmin
 
-[![Build Status](https://github.com/cfpb/wagtail-copyablemodeladmin/workflows/test/badge.svg)](https://github.com/cfpb/wagtail-copyablemodeladmin/actions)
-[![Coverage Status](https://coveralls.io/repos/github/cfpb/wagtail-copyablemodeladmin/badge.svg?branch=master)](https://coveralls.io/github/cfpb/wagtail-copyablemodeladmin?branch=master)
+This project is archived and no longer maintained.
 
 CopyableModelAdmin is an extension of the [Wagtail ModelAdmin](https://docs.wagtail.io/en/latest/reference/contrib/modeladmin/index.html) that allows for model instances to be copied in the user interface with a "Copy" button.
 
